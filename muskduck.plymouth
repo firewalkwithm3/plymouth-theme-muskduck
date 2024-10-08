@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=muskduck
+Description=Plymouth theme featuring a Musk Duck.
+ModuleName=script
+
+[script]
+ImageDir=@IMAGES@
+ScriptFile=@IMAGES@/muskduck.script
